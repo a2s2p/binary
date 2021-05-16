@@ -1,6 +1,6 @@
 [
     {
         "name": "libpk-lib.so",
-        "url": "https://github.com/nillshetara/binary/blob/main/y-tv/$abi/libpk-lib.so"
+        "url": "https://raw.githubusercontent.com/nillshetara/binary/main/y-tv/$abi/libpk-lib.so"
     }
 ]
